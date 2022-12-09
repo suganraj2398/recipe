@@ -1,0 +1,7 @@
+hello
+hi
+open 
+close
+run
+walk
+

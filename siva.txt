@@ -2,6 +2,10 @@
 1. naresh
 2. suresh
 x1. kotesh 
+
 #############
+# Old members joined in the class
 3. mahesh
 4. ramesh
+5. pavan
+6. tarun

@@ -1,5 +1,11 @@
+# New members added to the class
 1. naresh
 2. suresh
+x1. kotesh 
+x2.
+x3.
+x4.
+#############
 # Old members joined in the class
 3. mahesh
 4. ramesh
@@ -11,3 +17,9 @@
 2
 3
 4
+# Django new students
+1. m
+2
+3
+4
+5
